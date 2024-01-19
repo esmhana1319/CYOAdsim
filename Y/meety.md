@@ -2,5 +2,5 @@ You arrive at the coffee shop and make eye contact with the pretty cashier who s
 
 what will you do next?
 
-[order a coffee (with rizz)](Y/funny.md)
+[order a coffee (with rizz)](funny.md)
 [ask for their number](popo.md)
