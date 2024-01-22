@@ -1,8 +1,8 @@
-X is your best friend, they invited you to this cafe to catch up on how life is lately.
+X is your best friend, they invited you to this cafe to catch up on how life is lately. You grab some coffee but the cashier gives you a loving smile!
 
 what will you do next?
 
-[meet them at the coffee shop]()
+[sit with your friend]()
 
 
-[the beautiful cashier smiles at you (talk to her)]()
+[talk to the beautiful cashier]()
