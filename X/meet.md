@@ -5,4 +5,4 @@ what will you do next?
 [sit with your friend](X/nothing-happens.md)
 
 
-[talk to the beautiful cashier](../Y/meet.md)
+[talk to the beautiful cashier to order coffee for your friend](X/order-her-coffee.md)
