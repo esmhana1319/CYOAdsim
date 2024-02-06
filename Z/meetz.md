@@ -2,3 +2,5 @@ As you walk to the exit of the coffee shop with your small latte, you bump into 
 
 what will you do next?
 
+[]
+
