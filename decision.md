@@ -2,8 +2,8 @@
 
 You are here to meet a friend, but there is no telling how this day could go?
 
-[x](X/meet.md)
+[Go say hi to your friend](stacy/meet.md)
 
-[y](Y/1-arrival.md)
+[Go grab a cup of coffee](Cashier/1-arrival.md)
 
 
