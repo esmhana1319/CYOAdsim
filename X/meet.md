@@ -4,5 +4,4 @@ what will you do next?
 
 [sit with your friend](nothing-happens.md)
 
-
 [talk to the beautiful cashier to order coffee for your friend](order-her-coffee.md)
