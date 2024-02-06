@@ -1,2 +1,7 @@
-You catch up to the janitor and ask to buy them coffee to apologize, to which they agree shyly and ask their coworker to make their usual. After a while, the two of you sit down and they give you their number.
-Congrats! you won a good ending to the secret route, want to [try again for a different route?](../decision.md)
+You buy the janitor a cup of joe. They thank you and ask if you would like to take a seat as they clean up the mess. You find them to be delightful!
+
+You gather all your courage and ask them out!
+
+They say yes and now you have a partner for life :)
+
+[try again for a different route?](../decision.md)
