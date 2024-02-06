@@ -1,6 +1,6 @@
-### welcome to our simulator
+### welcome to the coffee shop!
 
-which character do you want to interact with?
+You are here to meet a friend, but there is no telling how this day could go?
 
 [x](X/meet.md)
 
