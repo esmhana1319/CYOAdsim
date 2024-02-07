@@ -1,3 +1,3 @@
-you run away from the police but you trip on a rock, go falling down the staircase, and die.
+you run away from them, but you trip on a rock leading you to go falling down the staircase and die.
 
 [try again?](../decision.md)
