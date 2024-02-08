@@ -1,6 +1,12 @@
 # CYOAdsim
 
-    The purpose of this project was to create a game for people. This game explores multiple senarios that are almost on the level of pure fantasy. Within our game the player will be confortned to choose between a lovley cashier and thier friend who they like. The game works by clicking links that will emulate real life choices. Each option will lead to more option unitll you reach the end of a path. Upon reaching the end of a path the game will reset allowing the player to choose a diffrent path.
+This CYOA project details a fun simulator where you make seemingly small decsions that may or may not alter the course of your love life completely.
+Whatever you chose to do will lead to certain events or endings, so will you prosper and find true happiness or drink your coffee alone for the rest of your life? [Find out now](decision.md)
 
+# Plan
+[Here is the link to our plan]git a(https://docs.google.com/drawings/d/1M3Gq-I4Q7xj0fp5OT71IDFaIiKk1-o-e4CGm9cmDprA/edit)
 
-    ![Google drawings plan](image.png)
+# Credits
+Our Github profiles can be found here.
+Esmhan - [esmhana1319](https://github.com/esmhana1319)
+Caleb - [calebg4205](https://github.com/calebg4205)
