@@ -5,7 +5,7 @@ Whatever you chose to do will lead to certain events or endings, so will you pro
 
 # Plan
 [Here is the link to our plan]git a(https://docs.google.com/drawings/d/1M3Gq-I4Q7xj0fp5OT71IDFaIiKk1-o-e4CGm9cmDprA/edit)
-
+![Google drwaings](dsimCYOA.jpeg)
 # Credits
 Our Github profiles can be found here.
 Esmhan - [esmhana1319](https://github.com/esmhana1319)
