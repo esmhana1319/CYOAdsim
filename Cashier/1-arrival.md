@@ -5,3 +5,5 @@ what will you do next?
 [order a coffee (with rizz)](2-your-funny.md)
 
 [ask for their number](1.5-creepy.md)
+
+![Look around](enter.jpg)
